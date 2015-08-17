@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\libs\notification-hubs-0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5665f8e79e2d89a83af0f915e5fcc93b9ae6747b">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\notification-hubs-0.3-423355078e409a4867daea6499b885099bd4bffc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-0afee90793f5bc5323ea92449c51d9692f566e50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\classes-c8ec02d62cbe4d51fc3651b18c8fae1f7963612d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\libs\notifications-1.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2498fce7adbdb5ebd37dafc56d8056db60f51fe">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\notifications-1.0.1-e93eb14e7e295dada03ac4b4e93f37d3883de0b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-863ecb3fedeb87ea6add7d91dc89f5d19a144c8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\classes-78fb8fe805b9fd2f740d11fd34412da33c136503.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\classes-74acdad0219e1f993661aef03b64851b427067e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\classes-43b8fe5500b13549b06a09ece023518d0a6cc0c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\gson-2.2.2-2b7266ddda404b99df9ac13ca6e0ec7c731df62e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\libs\guava-17.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\guava-17.0-cd6ed5a928e0dcf0170677baaddb32db61a0dfc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\libs\mobileservices-2.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5de03bab93697321e5654831bb98df11ad4c19ac">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\TryAzureMobileServices\app\build\intermediates\pre-dexed\debug\mobileservices-2.0.3-1d0e80e5e71f41570756eb19098f93618c20f4ea.jar" />
+    </item>
+
+</items>
